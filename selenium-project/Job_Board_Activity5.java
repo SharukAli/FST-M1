@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class Activity5 {
 	
 	private WebDriver driver;
-	private String title = "Jobs – Alchemy Jobs";
+	private String title = "Jobs â€“ Alchemy Jobs";
 	
 	@BeforeMethod
 	public void fnSetup() {
