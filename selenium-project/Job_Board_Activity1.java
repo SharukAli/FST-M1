@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class Activity1 {
 	
 	private WebDriver driver;
-	private String expTitle = "Alchemy Jobs – Job Board Application";
+	private String expTitle = "Alchemy Jobs â€“ Job Board Application";
 	
 	@BeforeTest
 	public void fnSetup() {
